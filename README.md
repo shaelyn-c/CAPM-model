@@ -1,1 +1,1 @@
-# CAPM-model
+# T-M in CAPM-model
